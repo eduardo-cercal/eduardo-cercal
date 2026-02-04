@@ -19,12 +19,6 @@ I am a passionate Mobile Engineer focused on building high-performance, scalable
 
 ---
 
-### 📊 My Stats
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-cercal&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cercal&layout=compact&theme=tokyonight&hide=cpp,csharp)
-
----
-
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-cercal/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eddydudu12@gmail.com)
