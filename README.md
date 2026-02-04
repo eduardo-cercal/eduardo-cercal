@@ -20,7 +20,7 @@ I am a passionate Mobile Engineer focused on building high-performance, scalable
 ---
 
 ### 📊 My Stats
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-cercal&show_icons=true&theme=tokyonight&count_private=true)  
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-cercal)](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cercal&layout=compact&theme=tokyonight&hide=cpp,csharp)
 
 ---
