@@ -19,9 +19,14 @@ I am a passionate Mobile Engineer focused on building high-performance, scalable
 
 ---
 
-### 📊 My Stats
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-cercal)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cercal&layout=compact&theme=tokyonight&hide=cpp,csharp)
+### 📊 My GitHub Insights
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eduardo-cercal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-cercal&layout=compact&theme=tokyonight&hide=cpp,csharp&langs_count=6" />
+</p>
+
+> **Note:** If images don't appear, it might be due to GitHub's cache or the service's temporary downtime.
 
 ---
 
